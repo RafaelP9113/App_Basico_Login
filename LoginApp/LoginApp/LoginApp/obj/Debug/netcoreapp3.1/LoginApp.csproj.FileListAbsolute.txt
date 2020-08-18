@@ -1,0 +1,16 @@
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.exe
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.deps.json
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.runtimeconfig.json
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.runtimeconfig.dev.json
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.dll
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\bin\Debug\netcoreapp3.1\LoginApp.pdb
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.csprojAssemblyReference.cache
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.Form1.resources
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.AssemblyInfoInputs.cache
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.AssemblyInfo.cs
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.dll
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.pdb
+C:\Users\Rafael\Desktop\Rafa\C#\LoginApp\LoginApp\LoginApp\obj\Debug\netcoreapp3.1\LoginApp.genruntimeconfig.cache
